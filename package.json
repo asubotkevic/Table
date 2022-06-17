@@ -1,0 +1,20 @@
+{
+  "name": "table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mai.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dead": "dead-server --port=3000 --host=localhost"
+  },
+  "keywords": [],
+  "author": "andrej",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "dead-server": "^1.0.6"
+  }
+}

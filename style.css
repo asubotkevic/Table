@@ -1,0 +1,18 @@
+body {
+    color: red;
+    font-family: 'Palatino Linotype', serif;
+  max-width: 600px;
+  padding: 0px 30px;
+}
+}
+form {
+    margin-left: 0px;
+    size: 200%;
+    width: 100px;
+    height: 70px;
+    }
+.q {
+    display: flex
+
+    
+}
